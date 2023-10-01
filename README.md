@@ -1,16 +1,14 @@
-### Hi there 👋
+Olá! Eu sou devJoséPaz, um entusiasta da tecnologia apaixonado por codificação e sistemas no geral. Estou sempre em busca de novos desafios e projetos emocionantes.
 
-<!--
-**devJosePaz/devJosePaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Linguagens de Programação
 
-Here are some ideas to get you started:
+Aqui estão algumas das linguagens de programação que eu domino:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Linguagem       | Nível de Proficiência |
+|-----------------|-----------------------|
+| Python          | Intermediário         |
+| C               | Intermediário         |
+| Java            | Intermediário         |
+| HTML/CSS        | Intermediário         |
+
+
