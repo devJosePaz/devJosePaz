@@ -2,7 +2,7 @@ Olá! Eu sou devJoséPaz, um entusiasta da tecnologia apaixonado por codificaç�
 
 # Linguagens de Programação
 
-Aqui estão algumas das linguagens de programação que eu domino:
+Aqui estão algumas das linguagens que eu domino:
 
 | Linguagem       | Nível de Proficiência |
 |-----------------|-----------------------|
@@ -10,5 +10,6 @@ Aqui estão algumas das linguagens de programação que eu domino:
 | C               | Intermediário         |
 | Java            | Intermediário         |
 | HTML/CSS        | Intermediário         |
+| MySql           | Intermediário         |
 
 
