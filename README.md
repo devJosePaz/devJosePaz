@@ -1,4 +1,4 @@
-Olá! Eu sou devJoséPaz, um entusiasta da tecnologia apaixonado por codificação e sistemas no geral. Estou sempre em busca de novos desafios e projetos emocionantes.
+Olá! Eu sou José, um entusiasta da tecnologia apaixonado por codificação e sistemas no geral. Estou sempre em busca de novos desafios e projetos emocionantes.
 
 # Linguagens de Programação
 
