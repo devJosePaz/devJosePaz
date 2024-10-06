@@ -39,8 +39,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
