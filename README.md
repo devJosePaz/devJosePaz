@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6734eb&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6734eb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jose+Paz+I'm+20+years+old;I+am+from+Barueri+SP;I+study+a+information+systems+at+UNIP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6734eb&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jose+Paz+I'm+21+years+old;I+am+from+Barueri+SP;I+study+a+information+systems+at+UNIP;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devJosePaz&show_icons=true&count_private=true&hide_border=true&title_color=6734eb&icon_color=6734eb&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -20,7 +20,6 @@
  
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=sharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
  
 ### Tools:
