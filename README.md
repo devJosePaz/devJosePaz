@@ -14,5 +14,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=devJosePaz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
  
-### Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
