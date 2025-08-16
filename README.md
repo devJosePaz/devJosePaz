@@ -8,7 +8,7 @@
 
 Sou José Paz, apaixonado por desenvolvimento back-end com Python, especialmente na criação de APIs eficientes e seguras usando FastAPI e SQLAlchemy para acesso otimizado a bancos de dados.
 
-Curto muito estudar tecnologia e me enxergar como posso desenvolver aplicaçẽos em diferentes áreas, pois acredito que o aprendizado é o que me impulsiona a evoluir e entregar soluções cada vez melhores.
+Curto muito estudar tecnologia e me enxergar como posso desenvolver aplicações em diferentes áreas, pois acredito que o aprendizado é o que me impulsiona a evoluir e entregar soluções cada vez melhores.
 
 ---
 
